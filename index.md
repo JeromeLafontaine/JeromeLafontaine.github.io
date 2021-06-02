@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to my website !
+
+This website has been created in May 2021 to post all my personnals projects and to learn how to create a website with Jekyll and GitHub Pages. 
+
+
 
 You can use the [editor on GitHub](https://github.com/JeromeLafontaine/JeromeLafontaine.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
