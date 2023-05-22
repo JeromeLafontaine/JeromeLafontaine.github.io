@@ -1,3 +1,7 @@
+title: Welcome !
+description: Welcome to my website, feel free to explore all my projects!
+
+
 ## Welcome to my website !
 
 This website has been created in May 2021 to post all my personnals projects and to learn how to create a website with Jekyll and GitHub Pages. 
