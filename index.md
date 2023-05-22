@@ -1,5 +1,3 @@
-title: Welcome !
-description: Welcome to my website, feel free to explore all my projects!
 
 
 ## Welcome to my website !
