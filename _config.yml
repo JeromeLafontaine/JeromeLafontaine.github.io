@@ -2,3 +2,8 @@ theme: jekyll-theme-slate
 title: Welcome !
 description: Welcome to my website, feel free to explore all my projects!
 
+layout: page
+title: Telecommunication
+permalink: /telecommunication
+
+
